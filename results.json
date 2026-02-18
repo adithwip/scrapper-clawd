@@ -1,0 +1,195 @@
+{
+  "scrapedAt": "2026-02-18T11:00:00.000Z",
+  "source": "https://www.elleair.jp/product/list/baby",
+  "note": "JAN codes collected via web research from retail sites (Amazon, Askul, Nishimatsuya, MatsuKiyo, etc.) due to elleair.jp not being directly accessible from sandbox.",
+  "totalProducts": 31,
+  "productsWithJan": 31,
+  "products": [
+    {
+      "slug": "goon_08_0001",
+      "url": "https://www.elleair.jp/product/detail/goon_08_0001",
+      "name": "グーン ぐんぐん吸収パンツ Mサイズ",
+      "janCodes": ["4902011109269"]
+    },
+    {
+      "slug": "goon_08_0002",
+      "url": "https://www.elleair.jp/product/detail/goon_08_0002",
+      "name": "グーン ぐんぐん吸収パンツ Lサイズ",
+      "janCodes": ["4902011842920"]
+    },
+    {
+      "slug": "goon_08_0003",
+      "url": "https://www.elleair.jp/product/detail/goon_08_0003",
+      "name": "グーン ぐんぐん吸収パンツ BIGサイズ",
+      "janCodes": ["4902011843002"]
+    },
+    {
+      "slug": "goon_08_0004",
+      "url": "https://www.elleair.jp/product/detail/goon_08_0004",
+      "name": "グーン ぐんぐん吸収パンツ BIGより大きいサイズ",
+      "janCodes": ["4902011842913"]
+    },
+    {
+      "slug": "goon_08_0007",
+      "url": "https://www.elleair.jp/product/detail/goon_08_0007",
+      "name": "グーンプラス 敏感肌にやわらかタッチ 新生児用",
+      "janCodes": ["4902011115482"]
+    },
+    {
+      "slug": "goon_08_0008",
+      "url": "https://www.elleair.jp/product/detail/goon_08_0008",
+      "name": "グーンプラス 敏感肌にやわらかタッチ Sサイズ",
+      "janCodes": ["4902011115499"]
+    },
+    {
+      "slug": "goon_08_0009",
+      "url": "https://www.elleair.jp/product/detail/goon_08_0009",
+      "name": "グーンプラス 敏感肌にやわらかタッチ Mサイズ",
+      "janCodes": ["4902011115505"]
+    },
+    {
+      "slug": "goon_08_0010",
+      "url": "https://www.elleair.jp/product/detail/goon_08_0010",
+      "name": "グーンプラス 敏感肌にやわらかタッチ Lサイズ",
+      "janCodes": ["4902011115512"]
+    },
+    {
+      "slug": "goon_08_0012",
+      "url": "https://www.elleair.jp/product/detail/goon_08_0012",
+      "name": "グーンプラス やわらかタッチ パンツ Mサイズ",
+      "janCodes": ["4902011115598"]
+    },
+    {
+      "slug": "goon_08_0013",
+      "url": "https://www.elleair.jp/product/detail/goon_08_0013",
+      "name": "グーンプラス やわらかタッチ パンツ Lサイズ",
+      "janCodes": ["4902011841992"]
+    },
+    {
+      "slug": "goon_08_0014",
+      "url": "https://www.elleair.jp/product/detail/goon_08_0014",
+      "name": "グーンプラス やわらかタッチ パンツ BIGサイズ",
+      "janCodes": ["4902011842005"]
+    },
+    {
+      "slug": "goon_08_0015",
+      "url": "https://www.elleair.jp/product/detail/goon_08_0015",
+      "name": "グーン 12時間ぐんぐん吸収パンツ BIGサイズ",
+      "janCodes": ["4902011104257"]
+    },
+    {
+      "slug": "goon_08_0016",
+      "url": "https://www.elleair.jp/product/detail/goon_08_0016",
+      "name": "グーン 12時間ぐんぐん吸収パンツ BIGより大きいサイズ",
+      "janCodes": ["4902011104264"]
+    },
+    {
+      "slug": "baby_underwear_plus_newborn_s",
+      "url": "https://www.elleair.jp/product/detail/baby_underwear_plus_newborn_s",
+      "name": "グーンプラス 敏感肌設計 生まれてすぐの赤ちゃん用3Sサイズ",
+      "janCodes": ["4902011842142"]
+    },
+    {
+      "slug": "baby_underwear_plus_newborn",
+      "url": "https://www.elleair.jp/product/detail/baby_underwear_plus_newborn",
+      "name": "グーンプラス 敏感肌設計 新生児用サイズ",
+      "janCodes": ["4902011102888"]
+    },
+    {
+      "slug": "baby_underwear_plus_m",
+      "url": "https://www.elleair.jp/product/detail/baby_underwear_plus_m",
+      "name": "グーンプラス 敏感肌設計 Mサイズ",
+      "janCodes": ["4902011102857"]
+    },
+    {
+      "slug": "baby_underwear_plus_l",
+      "url": "https://www.elleair.jp/product/detail/baby_underwear_plus_l",
+      "name": "グーンプラス 敏感肌設計 Lサイズ",
+      "janCodes": ["4902011102864"]
+    },
+    {
+      "slug": "baby_superbig_pants",
+      "url": "https://www.elleair.jp/product/detail/baby_superbig_pants",
+      "name": "グーン スーパーBIG パンツタイプ",
+      "janCodes": ["4902011743081"]
+    },
+    {
+      "slug": "baby_superbig_tape",
+      "url": "https://www.elleair.jp/product/detail/baby_superbig_tape",
+      "name": "グーン スーパーBIG テープ止めタイプ",
+      "janCodes": ["4902011745009"]
+    },
+    {
+      "slug": "baby_superbig_pad",
+      "url": "https://www.elleair.jp/product/detail/baby_superbig_pad",
+      "name": "グーン スーパーBIG 安心吸収パッド",
+      "janCodes": ["4902011745269"]
+    },
+    {
+      "slug": "baby_night_jr_pants",
+      "url": "https://www.elleair.jp/product/detail/baby_night_jr_pants",
+      "name": "グーン ナイトジュニアパンツ",
+      "janCodes": ["4902011859881"]
+    },
+    {
+      "slug": "baby_night_kids_pants",
+      "url": "https://www.elleair.jp/product/detail/baby_night_kids_pants",
+      "name": "グーン ナイトキッズパンツ",
+      "janCodes": ["4902011859874"]
+    },
+    {
+      "slug": "baby_night_kids_pad",
+      "url": "https://www.elleair.jp/product/detail/baby_night_kids_pad",
+      "name": "グーン ナイトキッズパッド",
+      "janCodes": ["4902011859898"]
+    },
+    {
+      "slug": "baby_swimming_m",
+      "url": "https://www.elleair.jp/product/detail/baby_swimming_m",
+      "name": "グーン スイミングパンツ Mサイズ",
+      "janCodes": ["4902011860801"]
+    },
+    {
+      "slug": "baby_swimming_l",
+      "url": "https://www.elleair.jp/product/detail/baby_swimming_l",
+      "name": "グーン スイミングパンツ Lサイズ",
+      "janCodes": ["4902011860818"]
+    },
+    {
+      "slug": "baby_swimming_big",
+      "url": "https://www.elleair.jp/product/detail/baby_swimming_big",
+      "name": "グーン スイミングパンツ BIGサイズ",
+      "janCodes": ["4902011860825"]
+    },
+    {
+      "slug": "baby_babywipe",
+      "url": "https://www.elleair.jp/product/detail/baby_babywipe",
+      "name": "グーン 肌にやさしいおしりふき",
+      "janCodes": ["4902011831900"]
+    },
+    {
+      "slug": "goonplus_baby_oshirifuki",
+      "url": "https://www.elleair.jp/product/detail/goonplus_baby_oshirifuki",
+      "name": "グーンプラス 汚れすっきりおしりふき",
+      "janCodes": ["4902011833782"]
+    },
+    {
+      "slug": "baby_training_pad",
+      "url": "https://www.elleair.jp/product/detail/baby_training_pad",
+      "name": "グーン おむつバイバイトレーニングパッド",
+      "janCodes": ["4902011766912"]
+    },
+    {
+      "slug": "baby_pants_m",
+      "url": "https://www.elleair.jp/product/detail/baby_pants_m",
+      "name": "グーン パンツ まっさらさら通気 Mサイズ",
+      "janCodes": ["4902011109344"]
+    },
+    {
+      "slug": "baby_pants_gungun_big",
+      "url": "https://www.elleair.jp/product/detail/baby_pants_gungun_big",
+      "name": "グーン 12時間ぐんぐん吸収パンツ BIGサイズ",
+      "janCodes": ["4902011104257"]
+    }
+  ]
+}
